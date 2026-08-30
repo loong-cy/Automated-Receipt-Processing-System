@@ -30,5 +30,7 @@ Check out this quick demo video:<br><br>
 />](https://www.youtube.com/embed/3dIT0ZtFOUc)
 
 ## Credits
-This project was built as a personal learning exercise. It was based on and expanded from the following resource:
+The initial AWS receipt-processing workflow was developed as a learning exercise based on:
 * **Tutorial**: Build an Automated Text Processor using Lambda, Textract & DynamoDB by Tech with Yeshwanth
+
+The project has been modified and extended beyond the original tutorial as documented above.
