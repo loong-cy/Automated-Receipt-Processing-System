@@ -23,3 +23,8 @@ Process flow:
 5. After which, Amazon Textract returns the structured data to Lambda. <br>
 6. Lambda function stores the extracted data into the DynamoDB table. <br> 
 7. Lambda function handles the sending of email notifications to user using Amazon SES. <br>
+
+## Project Demo
+Check out this quick demo video:<br><br>
+[<img src="https://img.youtube.com/vi/3dIT0ZtFOUc/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/3dIT0ZtFOUc)
