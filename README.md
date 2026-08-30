@@ -1,4 +1,4 @@
-# Automated-Receipt-Processing-System
+# Cloud-based-Receipt-Processing-System
 
 ## Project Background
 
@@ -28,3 +28,7 @@ Process flow:
 Check out this quick demo video:<br><br>
 [<img src="https://img.youtube.com/vi/3dIT0ZtFOUc/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/3dIT0ZtFOUc)
+
+## Credits
+This project was built as a personal learning exercise. It was based on and expanded from the following resources:
+* **Tutorial**: Build an Automated Text Processor using Lambda, Textract & DynamoDB by Tech with Yeshwanth
