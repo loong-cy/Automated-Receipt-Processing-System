@@ -30,5 +30,5 @@ Check out this quick demo video:<br><br>
 />](https://www.youtube.com/embed/3dIT0ZtFOUc)
 
 ## Credits
-This project was built as a personal learning exercise. It was based on and expanded from the following resources:
+This project was built as a personal learning exercise. It was based on and expanded from the following resource:
 * **Tutorial**: Build an Automated Text Processor using Lambda, Textract & DynamoDB by Tech with Yeshwanth
